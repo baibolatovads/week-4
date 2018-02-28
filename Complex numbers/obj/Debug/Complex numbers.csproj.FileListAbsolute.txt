@@ -1,0 +1,8 @@
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\obj\Debug\Complex numbers.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\obj\Debug\Complex numbers.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\bin\Debug\Complex numbers.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\bin\Debug\Complex numbers.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\bin\Debug\Complex numbers.pdb
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\obj\Debug\Complex numbers.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\obj\Debug\Complex numbers.pdb
+C:\Users\User_PC\Documents\PP2\Student\Week 4\Complex numbers\Complex numbers\bin\Debug\maks1.xml
